@@ -1,0 +1,19 @@
+# Node modules folder
+node_modules/
+
+# Environment variables
+.env
+
+# System/OS files (optional but recommended)
+.DS_Store
+Thumbs.db
+
+# Log files (optional)
+*.log
+
+# Editor/IDE config folders (optional)
+.vscode/
+.idea/
+
+# Backup/test data (optional, if not required)
+todo.json
